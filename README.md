@@ -22,7 +22,7 @@ Pastec offers a tiny HTTP API using JSON to add, remove, and search for images i
 
 ### Intellectual property
 
-Pastec is developed by [Visualink](http://www.visualink.io) and licenced under the [GNU LGPL v3.0](http://www.gnu.org/licenses/lgpl.html).
+Pastec is developed by [Visualink](http://www.visualink.io) and licensed under the [GNU LGPL v3.0](http://www.gnu.org/licenses/lgpl.html).
 It is based on the free packages of [OpenCV](http://www.opencv.org/) that are available for commercial purposes; you should therefore be free to use Pastec without paying for any patent license.
 
 More precisely, Pastec uses the [patent-free ORB descriptor](https://www.willowgarage.com/sites/default/files/orb_final.pdf) and not the well-known SIFT and SURF descriptors that are patented.
